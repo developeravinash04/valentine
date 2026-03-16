@@ -13,7 +13,6 @@ setTimeout(typeEffect,50);
 
 typeEffect();
 
-
 const btn = document.getElementById("surpriseBtn");
 const text = document.getElementById("surpriseText");
 
